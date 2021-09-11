@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Muhammad Idrees
+- 👀 I’m interested in Full Stack development and mobile application development.
+- 🌱 I’m currently learning MERN Stack and ReactNative.
+- 💞️ I’m looking to collaborate on different projects of MERN Stack and ReactNative to help gain experience.
+- 📫 You can reach me via the email idreeeeees1999@gmail.com
