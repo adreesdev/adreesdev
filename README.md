@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Idrees
 - 👀 I am a WEB 3.0 Full Stack Developer.
-- 🌱 I’m currently learning MERN Stack and Blockchain.
+- 🌱 Currently working in MERN Stack and Blockchain.
 - 💞️ I’m looking to collaborate on different projects of MERN Stack to help gain experience.
 - 📫 You can reach me via the email adreesdev@gmail.com
