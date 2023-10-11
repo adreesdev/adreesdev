@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **centralized crypto exchange and crypto bots.**
 
-- 🌱 I’m currently learning **about blockchain**
+- 🌱 I’m currently learning **about Blockchain & AI**
 
-- 💬 Ask me about **mern stack and dapps**
+- 💬 Ask me about **MERN stack, dApps and AI**
 
 - 📫 How to reach me **adreesdev@gmail.com**
 
