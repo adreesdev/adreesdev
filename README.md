@@ -2,7 +2,7 @@
 <h3 align="center">Architecting the Future: Navigating Web 3.0 as a Full Stack Developer</h3>
  <div align="center">
  <h1> <b>About Me </b> </h1>
-  <div>
+ </div>
 - 🔭 I’m currently working on **centralized crypto exchange and crypto bots.**
 
 - 🌱 I’m currently learning **about Blockchain & AI**
