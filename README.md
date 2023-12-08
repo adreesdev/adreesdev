@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Idrees</h1>
 <h3 align="center">Architecting the Future: Navigating Web 3.0 as a Full Stack Developer</h3>
-
+ <div align="center">
+ <h1> <b>About Me </b> </h1>
+  <div>
 - 🔭 I’m currently working on **centralized crypto exchange and crypto bots.**
 
 - 🌱 I’m currently learning **about Blockchain & AI**
@@ -18,7 +20,7 @@
  <td valign="top" width="33%">
  
 <div align="center">
- <h2> <b> Frontend/Tools </b> </h2>
+ <h2> <b> Frontend </b> </h2>
  </div>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -64,16 +66,13 @@
 
 <br/>  
 
-<br/>
-<hr/>
-<br/>
+ <div align="center">
+ <h1> <b>My Github Stats</b> </h1>
+  <div>
 
 ![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svggh-light-mode-only)
 
-<br/>
-<hr/>
-<br/>
 
 <p align="center">
   <a href="https://github.com/adreesdev">
