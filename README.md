@@ -3,13 +3,9 @@
  <div align="center">
  <h1> <b>About Me </b> </h1>
  </div>
-- 🔭 I’m currently working on **centralized crypto exchange and crypto bots.**
-
-- 🌱 I’m currently learning **about Blockchain & AI**
-
-- 💬 Ask me about **MERN stack, dApps and AI**
-
-- 📫 How to reach me **adreesdev@gmail.com**
+ <p align="justify">
+Results-driven Software Engineer with 2 years of experience specializing in the development of full-stack web applications and decentralized applications. Adept at translating complex requirements into scalable and user-friendly solutions. Proven track record of successful project delivery, demonstrating proficiency in front-end and back-end technologies. Excels in collaborative team environments and passionate about staying abreast of emerging technologies and industry best practices.
+ </p>
 
 
  <div align="center">
