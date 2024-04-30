@@ -4,7 +4,7 @@
  <h1> <b>About Me </b> </h1>
  </div>
  <p align="justify">
-Results-driven Software Engineer with 2 years of experience specializing in the development of full-stack web applications and decentralized applications. Adept at translating complex requirements into scalable and user-friendly solutions. Proven track record of successful project delivery, demonstrating proficiency in front-end and back-end technologies. Excels in collaborative team environments and passionate about staying abreast of emerging technologies and industry best practices.
+Results-driven Software Engineer with 3 years of experience specializing in the development of full-stack web applications and decentralized applications. Adept at translating complex requirements into scalable and user-friendly solutions. Proven track record of successful project delivery, demonstrating proficiency in front-end and back-end technologies. Excels in collaborative team environments and passionate about staying abreast of emerging technologies and industry best practices.
  </p>
 
 
