@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Idrees</h1>
-<h3 align="center">Architecting the Future: Navigating Web 3.0 as a Full Stack Developer</h3>
+<h3 align="center">Architecting the Future; Navigating AI & Web 3.0 as a Senior Software Engineer</h3>
  <div align="center">
  <h1> <b>About Me </b> </h1>
  </div>
  <p align="justify">
-Results-driven Software Engineer with 6 years of experience specializing in the development of full-stack web applications and decentralized applications. Adept at translating complex requirements into scalable and user-friendly solutions. Proven track record of successful project delivery, demonstrating proficiency in front-end and back-end technologies. Excels in collaborative team environments and passionate about staying abreast of emerging technologies and industry best practices.
+Engineering the next generation of AI-driven automation, full-stack ecosystems, and growth infrastructure. I don’t just ship code; I own the technical roadmap for ambitious teams at Sentient Arc. As Lead Technical Engineer, I oversee every stage of the Sentient Arc delivery lifecycle. We consolidate AI agent engineering, full-stack development, and DeFi systems into a single, high-performance execution layer. I ensure your infrastructure is built for 99.9% uptime and zero-friction scaling.
  </p>
 
 
